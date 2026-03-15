@@ -15,7 +15,7 @@ Apaixonado por tecnologia e em busca de estágio em **desenvolvimento de softwar
 
 ---
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
