@@ -6,12 +6,12 @@ Atuo na área de suprimentos hospitalares e estou migrando de carreira para *An�
 
 ## Sobre mim
 
--Ingresso em ADS previsto para 2027; até lá, construindo base técnica de forma independente
--Estudando Java com foco em lógica, arrays e orientação a objetos
--Conhecimentos em modelagem de banco de dados (conceitual, lógico e físico)
--Experiência com Git/GitHub no dia a dia dos projetos
--Interesse em SQL, Power BI e Excel, com foco futuro em BI e automação
--Comprometido com evolução contínua e trabalho em equipe
+Ingresso em ADS previsto para 2027; até lá, construindo base técnica de forma independente
+Estudando Java com foco em lógica, arrays e orientação a objetos
+Conhecimentos em modelagem de banco de dados (conceitual, lógico e físico)
+Experiência com Git/GitHub no dia a dia dos projetos
+Interesse em SQL, Power BI e Excel, com foco futuro em BI e automação
+Comprometido com evolução contínua e trabalho em equipe
 ---
 
 ## 🛠️ Tecnologias
