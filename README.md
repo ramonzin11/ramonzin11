@@ -1,17 +1,18 @@
 # Olá, eu sou o Ramon Faria 👋
 
-Atuo na área de suprimentos hospitalares e estou migrando de carreira para *Análise e Desenvolvimento de Sistemas (ADS)* , com foco em me tornar Analista de Sistemas Júnior. Apaixonado por tecnologia, estudando Java, SQL e ferramentas de automação/dados por conta própria.
+Atuo na área de suprimentos hospitalares e estou migrando de carreira para *Análise e Desenvolvimento de Sistemas (ADS)*, com foco em me tornar Analista de Sistemas Júnior. Apaixonado por tecnologia, estudando Java, SQL e ferramentas de automação/dados por conta própria.
 
 ---
 
 ## Sobre mim
 
-Ingresso em ADS previsto para 2027; até lá, construindo base técnica de forma independente
-Estudando Java com foco em lógica, arrays e orientação a objetos
-Conhecimentos em modelagem de banco de dados (conceitual, lógico e físico)
-Experiência com Git/GitHub no dia a dia dos projetos
-Interesse em SQL, Power BI e Excel, com foco futuro em BI e automação
-Comprometido com evolução contínua e trabalho em equipe
+- Ingresso em ADS previsto para 2027; até lá, construindo base técnica de forma independente
+- Estudando Java com foco em lógica, arrays e orientação a objetos
+- Conhecimentos em modelagem de banco de dados (conceitual, lógico e físico)
+- Experiência com Git/GitHub no dia a dia dos projetos
+- Interesse em SQL, Power BI e Excel, com foco futuro em BI e automação
+- Comprometido com evolução contínua e trabalho em equipe
+
 ---
 
 ## 🛠️ Tecnologias
