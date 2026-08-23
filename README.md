@@ -1,18 +1,17 @@
 # Olá, eu sou o Ramon Faria 👋
 
-Estudante de **Engenharia de Software** na UniSales (3º semestre), em Vitória/ES.
-Apaixonado por tecnologia e em busca de estágio em **desenvolvimento de software**.
+Atuo na área de suprimentos hospitalares e estou migrando de carreira para *Análise e Desenvolvimento de Sistemas (ADS)* , com foco em me tornar Analista de Sistemas Júnior. Apaixonado por tecnologia, estudando Java, SQL e ferramentas de automação/dados por conta própria.
 
 ---
 
 ## Sobre mim
 
-- Estudando **Java** com foco em lógica, arrays e orientação a objetos
-- Conhecimentos em **modelagem de banco de dados** (conceitual, lógico e físico)
-- Experiência com **Git/GitHub** no dia a dia dos projetos
-- Interesse em **SQL**, **Power BI** e **Excel**
-- Comprometido com evolução contínua e trabalho em equipe
-
+-Ingresso em ADS previsto para 2027; até lá, construindo base técnica de forma independente
+-Estudando Java com foco em lógica, arrays e orientação a objetos
+-Conhecimentos em modelagem de banco de dados (conceitual, lógico e físico)
+-Experiência com Git/GitHub no dia a dia dos projetos
+-Interesse em SQL, Power BI e Excel, com foco futuro em BI e automação
+-Comprometido com evolução contínua e trabalho em equipe
 ---
 
 ## 🛠️ Tecnologias
@@ -23,13 +22,6 @@ Apaixonado por tecnologia e em busca de estágio em **desenvolvimento de softwar
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
----
-
-## Formação
-
-**Engenharia de Software** — UniSales · Centro Universitário Salesiano  
-3º semestre · Vitória, ES
 
 ---
 
