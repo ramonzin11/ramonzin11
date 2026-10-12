@@ -4,14 +4,20 @@ Atuo na área de suprimentos hospitalares e estou migrando de carreira para *An�
 
 ---
 
-## Sobre mim
+## 🎯 Foco Atual
+
+- 🚀 **Atualmente a aprofundar:** Programação Orientada a Objetos (POO), Clean Code e arquitetura de classes em Java.
+
+---
+
+## 💡 Sobre mim
 
 - Ingresso em ADS previsto para 2027; até lá, construindo base técnica de forma independente
-- Estudando Java com foco em lógica, arrays e orientação a objetos
-- Conhecimentos em modelagem de banco de dados (conceitual, lógico e físico)
-- Experiência com Git/GitHub no dia a dia dos projetos
+- Conhecimentos sólidos em lógica de programação, arrays, matrizes e algoritmos de ordenação
+- Prática constante com modelagem de banco de dados (conceitual, lógico e físico)
+- Uso diário de Git e GitHub para versionamento de código e portfólio
 - Interesse em SQL, Power BI e Excel, com foco futuro em BI e automação
-- Comprometido com evolução contínua e trabalho em equipe
+- Comprometido com evolução contínua, código limpo e trabalho em equipe
 
 ---
 
@@ -26,7 +32,16 @@ Atuo na área de suprimentos hospitalares e estou migrando de carreira para *An�
 
 ---
 
-## Contato
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ramonzin11&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonzin11&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-faria/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rmfaria12@hotmail.com)
