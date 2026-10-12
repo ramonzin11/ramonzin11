@@ -35,8 +35,8 @@ Atuo na área de suprimentos hospitalares e estou migrando de carreira para *An�
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ramonzin11&show_icons=true&theme=radical&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonzin11&layout=compact&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ramonzin11&show_icons=true&theme=radical&hide_border=true&locale=pt-BR" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonzin11&layout=compact&theme=radical&hide_border=true&locale=pt-BR" />
 </p>
 ---
 
