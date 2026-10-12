@@ -16,7 +16,7 @@ Atuo na área de suprimentos hospitalares e estou migrando de carreira para *An�
 - Conhecimentos sólidos em lógica de programação, arrays, matrizes e algoritmos de ordenação
 - Prática constante com modelagem de banco de dados (conceitual, lógico e físico)
 - Uso diário de Git e GitHub para versionamento de código e portfólio
-- Interesse em SQL, Power BI e Excel, com foco futuro em BI e automação
+- Interesse em SQL e Excel 
 - Comprometido com evolução contínua, código limpo e trabalho em equipe
 
 ---
