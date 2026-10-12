@@ -6,7 +6,7 @@ Atuo na área de suprimentos hospitalares e estou migrando de carreira para *An�
 
 ## 🎯 Foco Atual
 
-- 🚀 **Atualmente a aprofundar:** Programação Orientada a Objetos (POO), Clean Code e arquitetura de classes em Java.
+- 🚀 **Atualmente aprofundando:** Programação Orientada a Objetos (POO), Clean Code e arquitetura de classes em Java.
 
 ---
 
@@ -32,17 +32,7 @@ Atuo na área de suprimentos hospitalares e estou migrando de carreira para *An�
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ramonzin11&show_icons=true&theme=radical&hide_border=true&locale=pt-BR" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonzin11&layout=compact&theme=radical&hide_border=true&locale=pt-BR" />
-</p>
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-faria/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rmfaria12@hotmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5527996430854)
